@@ -1,0 +1,10 @@
+
+*.xcuserstate
+
+NavigationBarDemo.xcodeproj/project.xcworkspace/xcuserdata/subo.xcuserdatad/UserInterfaceState.xcuserstate
+
+*.xcworkspacedata
+
+*.xcscheme
+
+NavigationBarDemo.xcodeproj/xcuserdata/Subo.xcuserdatad/xcschemes/xcschememanagement.plist
